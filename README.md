@@ -7,4 +7,4 @@ This blog is a place for me to track all my dev goals and ideas.
 
 ## Features
 
-This blog is created with Astro and deployed with Github pages withastro/action@v0 build. [View here](https://blog.darrenxu.com/ )
+This blog is created with Astro and deployed with Github pages build using the [official Astro Github pages action](https://docs.astro.build/en/guides/deploy/github/). [View the deployed site here](https://blog.darrenxu.com/ )
