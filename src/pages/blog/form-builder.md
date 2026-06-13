@@ -3,6 +3,7 @@ layout: "../../layouts/BlogPost.astro"
 title: "Creating a GUI form builder and renderer"
 description: "The steps I took in making this"
 pubDate: "Oct 06 2024"
+hidden: true
 ---
 
 MVP:
